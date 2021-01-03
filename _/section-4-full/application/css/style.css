@@ -1,0 +1,6 @@
+body{
+  padding-top: 70px;
+}
+.table tr .btn+.btn {
+  margin-left: 4px;
+}
